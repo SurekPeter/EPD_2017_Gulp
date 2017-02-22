@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+.valid{
+    background-color: green;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.invalid{
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
